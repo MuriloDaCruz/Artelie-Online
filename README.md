@@ -1,16 +1,18 @@
 # Projeto Integrador - Modelo
-*(Coloque aqui o nome do seu projeto.)*
+ArteliêOnline
 
 Um modelo para o desenvolvimento do Projeto Integrador do Curso de Técnico em Desenvolvimento de Sistemas para a Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
-*(Coloque aqui uma breve descrição do seu projeto.)*
+Loja Virtual(site de vendas) de itens relacionados a arte.
 
 **IMPORTANTE**: [**Cadastre seu projeto nesse link**](https://docs.google.com/spreadsheets/d/1KXuMJ9TK7GPyahR_BfLwfn4ec7vX7DgiHx42vFc4E7g/edit?usp=sharing).
 
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- [Aluno1](github.com/aluno1)
-- [Aluno2](github.com/aluno2)
+- Gabriel Henrick Martins Gomes (github.com/gabrielmartinsgomes)
+- Guilherme Schreiber (github.com/GuilhermeSchreiber7)
+- Murilo da Cruz Souza (github.com/MuriloDaCruz)
+- Nicolas Steffens Pereira (github.com/SPNicolas)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
