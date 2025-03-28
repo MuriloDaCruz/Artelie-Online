@@ -9,10 +9,10 @@ Loja Virtual(site de vendas) de itens relacionados a arte.
 Professor: [Marco André Mendes](github.com/marcoandre)
 
 Equipe:
-- Gabriel Henrick Martins Gomes (github.com/gabrielmartinsgomes)
-- Guilherme Schreiber (github.com/GuilhermeSchreiber7)
-- Murilo da Cruz Souza (github.com/MuriloDaCruz)
-- Nicolas Steffens Pereira (github.com/SPNicolas)
+- [Gabriel Henrick Martins Gomes](github.com/gabrielmartinsgomes)
+- [Guilherme Schreiber](github.com/GuilhermeSchreiber7)
+- [Murilo da Cruz Souza](github.com/MuriloDaCruz)
+- [Nicolas Steffens Pereira](github.com/SPNicolas)
 
 Links do projeto:
 (*Coloque aqui os links para a documentação do projeto e os repositórios e plubicação do backend e frontend.*)
